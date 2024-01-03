@@ -1,3 +1,4 @@
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34330.188
@@ -5,6 +6,8 @@ MinimumVisualStudioVersion = 16.0.0.0
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpaceEscape.Windows", "SpaceEscape.Windows\SpaceEscape.Windows.csproj", "{69563E2E-9BB6-4647-B3AB-D35CDE76508C}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpaceEscape.Game", "SpaceEscape.Game\SpaceEscape.Game.csproj", "{C62FADAF-76DA-44F7-B41D-C368628CC664}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceEscape.Android", "SpaceEscape.Android\SpaceEscape.Android.csproj", "{EB702D3F-31EE-416E-AB00-49D504C0073B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
