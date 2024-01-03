@@ -24,4 +24,9 @@
     <ProjectReference Include="..\SpaceEscape.Game\SpaceEscape.Game.csproj" />
   </ItemGroup>
 
+  <ItemDefinitionGroup>
+    <ReferencePath>
+      <CopyLocal>false</CopyLocal>
+    </ReferencePath>
+  </ItemDefinitionGroup>
 </Project>
