@@ -1,0 +1,8 @@
+!Texture
+Id: ff63a308-6fc9-4083-9be3-069fd51b3032
+SerializedVersion: {Stride: 2.0.0.0}
+Tags: []
+Source: !file ../../Resources/model/BG/sourceimages/obj_00.jpg
+Type: !ColorTextureType
+    ColorKeyColor: {R: 255, G: 0, B: 255, A: 255}
+    PremultiplyAlpha: false

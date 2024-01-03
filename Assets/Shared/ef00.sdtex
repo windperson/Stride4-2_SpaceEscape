@@ -1,0 +1,9 @@
+!Texture
+Id: f437dd22-5b86-490f-be4c-17e933b85cdc
+SerializedVersion: {Stride: 2.0.0.0}
+Tags: []
+Source: !file ../../Resources/model/character/Sourceimages/ef00.png
+Type: !ColorTextureType
+    ColorKeyColor: {R: 255, G: 0, B: 255, A: 255}
+    Alpha: Interpolated
+IsStreamable: false

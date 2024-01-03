@@ -1,0 +1,15 @@
+!Model
+Id: 3717866c-9f71-4306-9004-6dd117cb7299
+SerializedVersion: {Stride: 2.0.0.0}
+Tags: []
+Source: !file ../../Resources/model/BG/scene/obj00.FBX
+Skeleton: f1850ea7-82f5-46e1-bd86-9f6eb681f986:obj00 Skeleton
+PivotPosition: {X: 0.0, Y: 0.0, Z: 0.0}
+Materials:
+    ea6e04fd85e30a47b2f99b761bb0b823:
+        Name: obj00
+        MaterialInstance:
+            Material: ac8af0d2-2aec-4176-8053-c6a4e81bc35a:obj00 Material
+Modifiers: {}
+~SourceHashes:
+    c6db86fde86d085256beb83fd7458107~../../Resources/model/BG/scene/obj00.FBX: b67d92d3f1774d22af885fd1623c97c0

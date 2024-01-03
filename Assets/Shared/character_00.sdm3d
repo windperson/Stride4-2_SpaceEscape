@@ -1,0 +1,23 @@
+!Model
+Id: 60d58ccd-ecd2-4ff8-9960-d6b5e6828c02
+SerializedVersion: {Stride: 2.0.0.0}
+Tags: []
+Source: !file ../../Resources/model/character/scene/character_00.FBX
+Skeleton: 640924b3-35a9-434f-abc4-f967562a371e:character_00 Skeleton
+PivotPosition: {X: 0.0, Y: 0.0, Z: 0.0}
+Materials:
+    0b1a339ed28bc044af90b5da7012e9e2:
+        Name: mc00
+        MaterialInstance:
+            Material: d201f8e9-0dd6-4959-9ca1-a3aa2d072294:mc00
+    d22670ae028c8c469166ff0e07ef8443:
+        Name: ef00
+        MaterialInstance:
+            Material: 98f4a33e-0ccb-454e-889e-64f9d48deca8:ef00_1
+    9a7e4d3aaf9f96438da6000d9eeb45db:
+        Name: mc01
+        MaterialInstance:
+            Material: 656b8a34-3c0d-4841-bf06-9a61f705362b:mc01
+Modifiers: {}
+~SourceHashes:
+    eb8a6905a984032c7b06df24d2b3862b~../../Resources/model/character/scene/character_00.FBX: 1a0b83c9b02b333469043d7a7a964b16
